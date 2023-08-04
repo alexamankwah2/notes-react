@@ -13,10 +13,11 @@ The React Notes App is a simple web application built with React.js that allows 
 - **Responsive Design:** The app is designed to work seamlessly across different devices, whether it's a desktop, tablet, or smartphone.
 
 ## Demo
-
-In the project directory, you can run:
+![screencapture-notepad-498-pages-dev-2023-08-03-21_04_08](https://github.com/alexamankwah2/notes-react/assets/128336742/ac36ba48-b643-4b4f-af0f-235b4cf240c6)
+[Demo link](https://notepad-498.pages.dev/)
 
 ### `npm start`
+In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
